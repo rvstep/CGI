@@ -16,4 +16,6 @@
 # Компиляция go
   go build hello.go
   
-  
+# Сборка java
+    javac hello.java
+    java HelloWorld
